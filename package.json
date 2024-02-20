@@ -1,7 +1,7 @@
 {
     "name": "user-app",
     "version": "1.5.2",
-    "description": "DataOrb User app",
+    "description": "DHIS2 User app",
     "license": "BSD-3-Clause",
     "private": true,
     "scripts": {
