@@ -1,8 +1,8 @@
 {
   "type": "app",
   "coreApp": true,
-  "title": "User management",
-  "name": "user",
+  "title": "User Pro",
+  "name": "user-pro",
   "description": "An application for managing users, user-groups and user-roles",
   "minDHIS2Version": "2.38",
   "version": "1.5.2",

@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "user",
-  "name": "User management",
+  "short_name": "user-pro",
+  "name": "User Pro",
   "description": "An application for managing users, user-groups and user-roles",
   "version": "1.5.2",
   "core_app": true,
